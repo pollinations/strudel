@@ -2,8 +2,8 @@
   "name": "@strudel.cycles/mini",
   "version": "0.8.2",
   "description": "Mini notation for strudel",
-  "main": "index.mjs",
-  "type": "module",
+  "main": "dist/index.js",
+  "type": "commonjs",
   "publishConfig": {
     "main": "dist/index.js",
     "module": "dist/index.mjs"
@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/tidalcycles/strudel#readme",
   "dependencies": {
-    "@strudel.cycles/core": "workspace:*"
+    "@strudel.cycles/core": "^0.8.2"
   },
   "devDependencies": {
     "peggy": "^3.0.2",

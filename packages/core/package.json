@@ -2,8 +2,8 @@
   "name": "@strudel.cycles/core",
   "version": "0.8.2",
   "description": "Port of Tidal Cycles to JavaScript",
-  "main": "index.mjs",
-  "type": "module",
+  "main": "dist/index.js",
+  "type": "commonjs",
   "publishConfig": {
     "main": "dist/index.js",
     "module": "dist/index.mjs"
