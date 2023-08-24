@@ -1,4 +1,4 @@
-dist
+#dist
 out
 !docs/dist
 dist-*
