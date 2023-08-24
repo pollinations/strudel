@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/tidalcycles/strudel#readme",
   "dependencies": {
-    "@strudel.cycles/core": "^0.8.2"
+    "@strudel.cycles/core": "https://gitpkg.now.sh/pollinations/strudel/packages/core?main"
   },
   "devDependencies": {
     "peggy": "^3.0.2",
